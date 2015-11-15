@@ -1,4 +1,4 @@
-<?php require_once( 'nkemi-admin/cms.php' ); ?>
+<?php require_once( 'backend/cms.php' ); ?>
 <cms:template title='Home Page' />
 <!DOCTYPE html>
 <html lang="en">
@@ -322,7 +322,7 @@
                   <ul class="slides">
                     <li>
                       <div class="col-md-4 wp5">
-                        <img src="img/carol.png" alt="Team Member">
+                        <img src="img/caroline.jpg" alt="Team Member">
                         <cms:editable name='team_profile_1' type='richtext'>
                         <h2>Caroline Mbui</h2>
                         <h3>Managing & Strategy Director</h3>
@@ -339,7 +339,7 @@
                         </div>
                       </div>
                       <div class="col-md-4 wp5 delay-05s">
-                        <img src="img/ali.png" alt="Team Member">
+                        <img src="img/gitahi.jpg" alt="Team Member">
                         <cms:editable name='team_profile_2' type='richtext'>
                         <h2>Mahmoud Ali</h2>
                         <h3>Operations Manager</h3>
@@ -358,7 +358,7 @@
                         </div>
                       </div>
                       <div class="col-md-4 wp5 delay-1s">
-                        <img src="img/mark.png" alt="Team Member">
+                        <img src="img/mwangi.jpg" alt="Team Member">
                         <cms:editable name='team_profile_3' type='richtext'>
                         <h2>Mark Ngoloma</h2>
                         <h3>Marketing Executive</h3>
@@ -377,15 +377,15 @@
                     </li>
                     <li>
                       <div class="col-md-4 wp5">
-                        <img src="img/carol.png" alt="Team Member">
-                        <cms:editable name='team_profile_1' type='richtext'>
+                        <img src="img/opoti.jpg" alt="Team Member">
+                        <cms:editable name='team_profile_4' type='richtext'>
                         <h2>Caroline Mbui</h2>
                         <h3>Managing & Strategy Director</h3>
                         <p>Brand, Marketing & Communication Consultant. I love Africa. She oversees all aspects of the charity’s domestic and international fundraising efforts. She is also responsible for overall brand identity</p>
                         </cms:editable>
                         <div class="social">
                           <ul class="social-buttons">
-                          <cms:editable name='Social_1'>
+                          <cms:editable name='Social_4'>
                             <li><a href="mailto:caroline@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
                             <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
@@ -394,8 +394,8 @@
                         </div>
                       </div>
                       <div class="col-md-4 wp5 delay-05s">
-                        <img src="img/ali.png" alt="Team Member">
-                        <cms:editable name='team_profile_2' type='richtext'>
+                        <img src="img/mark.jpg" alt="Team Member">
+                        <cms:editable name='team_profile_5' type='richtext'>
                         <h2>Mahmoud Ali</h2>
                         <h3>Operations Manager</h3>
                         <p>Mahmoud Ali handles the company’s administrative duties. Mahmoud is a big believer in hard work and discipline.
@@ -404,7 +404,7 @@
                         </cms:editable>
                         <div class="social">
                           <ul class="social-buttons">
-                          <cms:editable name='Social_2'>
+                          <cms:editable name='Social_5'>
                             <li><a href="mailto:ali@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
                             <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
@@ -413,15 +413,15 @@
                         </div>
                       </div>
                       <div class="col-md-4 wp5 delay-1s">
-                        <img src="img/mark.png" alt="Team Member">
-                        <cms:editable name='team_profile_3' type='richtext'>
+                        <img src="img/diana.jpg" alt="Team Member">
+                        <cms:editable name='team_profile_6' type='richtext'>
                         <h2>Mark Ngoloma</h2>
                         <h3>Marketing Executive</h3>
                         <p>Mark's key strengths are strategic thinking, team work and ability to think on his feet. He previously worked for Mayfair insurance company as a marketing executive. He holds a Bachelor’s Degree in Commerce – Marketing option & is currently pursuing his Chartered Institute of Marketing (CIM) professional qualification.</p>
                         </cms:editable>
                         <div class="social">
                           <ul class="social-buttons">
-                          <cms:editable name='Social_3'>
+                          <cms:editable name='Social_6'>
                             <li><a href="mailto:mark@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
                             <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
@@ -432,15 +432,15 @@
                     </li>
                     <li>
                       <div class="col-md-4 wp5">
-                        <img src="img/carol.png" alt="Team Member">
-                        <cms:editable name='team_profile_1' type='richtext'>
+                        <img src="img/hilda.jpg" alt="Team Member">
+                        <cms:editable name='team_profile_7' type='richtext'>
                         <h2>Caroline Mbui</h2>
                         <h3>Managing & Strategy Director</h3>
                         <p>Brand, Marketing & Communication Consultant. I love Africa. She oversees all aspects of the charity’s domestic and international fundraising efforts. She is also responsible for overall brand identity</p>
                         </cms:editable>
                         <div class="social">
                           <ul class="social-buttons">
-                          <cms:editable name='Social_1'>
+                          <cms:editable name='Social_7'>
                             <li><a href="mailto:caroline@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
                             <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
@@ -450,7 +450,7 @@
                       </div>
 
                       <!-- Extra profiles -->
-                      
+
                       <!-- <div class="col-md-4 wp5 delay-05s">
                         <img src="img/ali.png" alt="Team Member">
                         <cms:editable name='team_profile_2' type='richtext'>

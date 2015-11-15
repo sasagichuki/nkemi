@@ -125,3 +125,8 @@ img.color_flip:hover {
   padding: 0px; }
 
 /*# sourceMappingURL=style.css.map */
+
+#teamSlider .slides p {
+  overflow: scroll;
+  height: 240px;
+}
