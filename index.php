@@ -375,6 +375,119 @@
                         </div>
                       </div>
                     </li>
+                    <li>
+                      <div class="col-md-4 wp5">
+                        <img src="img/carol.png" alt="Team Member">
+                        <cms:editable name='team_profile_1' type='richtext'>
+                        <h2>Caroline Mbui</h2>
+                        <h3>Managing & Strategy Director</h3>
+                        <p>Brand, Marketing & Communication Consultant. I love Africa. She oversees all aspects of the charity’s domestic and international fundraising efforts. She is also responsible for overall brand identity</p>
+                        </cms:editable>
+                        <div class="social">
+                          <ul class="social-buttons">
+                          <cms:editable name='Social_1'>
+                            <li><a href="mailto:caroline@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
+                          </cms:editable>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="col-md-4 wp5 delay-05s">
+                        <img src="img/ali.png" alt="Team Member">
+                        <cms:editable name='team_profile_2' type='richtext'>
+                        <h2>Mahmoud Ali</h2>
+                        <h3>Operations Manager</h3>
+                        <p>Mahmoud Ali handles the company’s administrative duties. Mahmoud is a big believer in hard work and discipline.
+                        Mahmoud is qualified in his field and holds a Bachelor’s degree in Business Information Technology from Jomo Kenyatta University Of Agriculture and Technology.
+                        .</p>
+                        </cms:editable>
+                        <div class="social">
+                          <ul class="social-buttons">
+                          <cms:editable name='Social_2'>
+                            <li><a href="mailto:ali@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
+                          </cms:editable>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="col-md-4 wp5 delay-1s">
+                        <img src="img/mark.png" alt="Team Member">
+                        <cms:editable name='team_profile_3' type='richtext'>
+                        <h2>Mark Ngoloma</h2>
+                        <h3>Marketing Executive</h3>
+                        <p>Mark's key strengths are strategic thinking, team work and ability to think on his feet. He previously worked for Mayfair insurance company as a marketing executive. He holds a Bachelor’s Degree in Commerce – Marketing option & is currently pursuing his Chartered Institute of Marketing (CIM) professional qualification.</p>
+                        </cms:editable>
+                        <div class="social">
+                          <ul class="social-buttons">
+                          <cms:editable name='Social_3'>
+                            <li><a href="mailto:mark@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
+                          </cms:editable>
+                          </ul>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="col-md-4 wp5">
+                        <img src="img/carol.png" alt="Team Member">
+                        <cms:editable name='team_profile_1' type='richtext'>
+                        <h2>Caroline Mbui</h2>
+                        <h3>Managing & Strategy Director</h3>
+                        <p>Brand, Marketing & Communication Consultant. I love Africa. She oversees all aspects of the charity’s domestic and international fundraising efforts. She is also responsible for overall brand identity</p>
+                        </cms:editable>
+                        <div class="social">
+                          <ul class="social-buttons">
+                          <cms:editable name='Social_1'>
+                            <li><a href="mailto:caroline@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
+                          </cms:editable>
+                          </ul>
+                        </div>
+                      </div>
+
+                      <!-- Extra profiles -->
+                      
+                      <!-- <div class="col-md-4 wp5 delay-05s">
+                        <img src="img/ali.png" alt="Team Member">
+                        <cms:editable name='team_profile_2' type='richtext'>
+                        <h2>Mahmoud Ali</h2>
+                        <h3>Operations Manager</h3>
+                        <p>Mahmoud Ali handles the company’s administrative duties. Mahmoud is a big believer in hard work and discipline.
+                        Mahmoud is qualified in his field and holds a Bachelor’s degree in Business Information Technology from Jomo Kenyatta University Of Agriculture and Technology.
+                        .</p>
+                        </cms:editable>
+                        <div class="social">
+                          <ul class="social-buttons">
+                          <cms:editable name='Social_2'>
+                            <li><a href="mailto:ali@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
+                          </cms:editable>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="col-md-4 wp5 delay-1s">
+                        <img src="img/mark.png" alt="Team Member">
+                        <cms:editable name='team_profile_3' type='richtext'>
+                        <h2>Mark Ngoloma</h2>
+                        <h3>Marketing Executive</h3>
+                        <p>Mark's key strengths are strategic thinking, team work and ability to think on his feet. He previously worked for Mayfair insurance company as a marketing executive. He holds a Bachelor’s Degree in Commerce – Marketing option & is currently pursuing his Chartered Institute of Marketing (CIM) professional qualification.</p>
+                        </cms:editable>
+                        <div class="social">
+                          <ul class="social-buttons">
+                          <cms:editable name='Social_3'>
+                            <li><a href="mailto:mark@nkemi.co.ke?subject=Great Website" class="social-btn"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/JustDes" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://ke.linkedin.com/in/carolinekmbui" class="social-btn"><i class="fa fa-linkedin"></i></a></li>
+                          </cms:editable>
+                          </ul>
+                        </div>
+                      </div> -->
+                    </li>
                     <!-- <li></li> -->
                   </ul>
                 </div>
